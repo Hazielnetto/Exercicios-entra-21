@@ -1,0 +1,52 @@
+Façam um algoritmo passo a passo de como preparar um bolo de maracujá.
+
+1-ligo o forno
+ 1.2-ajusto na temperatura certa
+2-pego os ingredientes
+ 2.1-se forem frios eu
+  2.1.1-abro a geladeira
+  2.1.2-pego os ingredientes
+  2.1.3-coloco na mesa
+  2.1.4-fecho a geladeira
+ 2.2-se não forem
+  2.2.1-abro o armario
+  2.2.2-pego os ingredientes
+  2.2.3-coloco na mesa
+  2.2.4-fecho o armario
+3-abro o a gaveta
+ 3.1-pego os talheres e o que eu for usar para misturar a massa
+ 3.2-fecho a gaveta
+ 3.3-coloco na mesa
+4-pego a batedeira
+ 4.1-monto a batedeira
+ 4.2-ligo na tomada
+ 4.3-pego a tijela da batedeira
+ 4.4-coloco os ingredientes
+ 4.5-coloco a tijela de volta na batedeira
+ 4.6-ligo a batedeira
+ 4.7-com uma mão vou mexendo a tijela
+ 4.8-desligo a batedeira
+ 4.9-retiro a tijela
+5-se ainda restarem ingredientes eu
+ 5.1-coloco na tijela
+ 5.2-com uma espatula eu misturo
+ 5.3-coloco a tijela na mesa
+6-pego uma forma
+ 6.1-passo manteiga ou margarina na forma
+ 6.2-pego a tijela
+ 6.3-depejo na forma
+ 6.4-pego a forma
+ 6.5-abro o forno
+ 6.6-coloco a forma dentro do forno
+ 6.7-fecho o forno
+7-guardo os ingredientes e os talheres
+ 7.1-espero o tempo necessário para assar a massa
+8-abro o forno
+ 8.1-se não estiver pronto eu
+  8.1.1-fecho o forno
+  8.1.2-espero mais 5 minutos
+ 8.2-se estiver pronto eu
+  8.2.1-desligo o forno
+  8.2.2-pego um pano para não me queimar
+  8.2.3-com a ajuda do pano retiro a forma
+  8.2.4-coloco na mesa ou na janela para esfriar
