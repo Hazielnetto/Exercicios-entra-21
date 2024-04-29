@@ -1,1 +1,2 @@
-Todos meus scripts que eu fiz durante o curso de python do entra 21 durante a pandemia
+# Exercicios-entra-21
+Exercícios que eu fiz durante o curso do Entra 21 - Python durante pandemia
